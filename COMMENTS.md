@@ -21,6 +21,14 @@ para acessar localmente utilizado uma extenção (CORS - Access-Control-Allow-Or
 para iniciar o frontend o seguinte comando foi utilizado
 npm run serve
 
+###Variável TEMPO
+Criação da documentação do sistema proposto(Diagramas, etc)
+Adicionar o projeto a uma estrutura do tipo DOCKER
+Validação dos campos dos dados em ambos os lados da aplicação, 
+Criação de Sistema de Login para manter a confiabilidade dos dados
+
+
+
 
 
 
