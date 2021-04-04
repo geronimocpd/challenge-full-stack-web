@@ -1,7 +1,7 @@
 GrupoA Educação - Full Stack Web Developer
 ===================
 
-Criação da API de requisitos com node express, nodemon e doby-parser
+Criação da API de requisitos com as sequintes dependências: node express, mysql2, nodemon e body-parser
 
     As requisições foram divididas em quatro categorias:
     CRIAR, EDITAR, BUSCAR e DELETAR.
